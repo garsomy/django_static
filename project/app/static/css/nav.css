@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 29px;
+    font-weight: 700;
+}
+
+.body{
+    background-color: #efefef;
+    width: 1920px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn{
+    color: #4E4E4E;
+    background-color: #fff;
+    transition: all .1s ease-in-out;
+    padding: 40px 70px;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+
+.btn:hover{
+    color: #fff;
+    background-color: #38BCEA;
+}
+
+.btn-container{
+    margin: 90px 0;
+}
+
+.nav__text{
+    color: #12354B;
+    font-size: 48px;
+    margin-left: 15px;
+}
+
+.text{
+    font-weight: 400;
+    margin-top: 40px;
+}
